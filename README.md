@@ -1,6 +1,6 @@
-published-papers
+Privon et al. 2012, ApJ, 747, 46
 ================
 
-Code and scripts from published papers which are not available elsewhere.
+"Modeling the Infrared Emission in Cygnus A"
 
-* 2012\_ApJ\_747\_46/	- "Modeling the Infrared Emission in Cygnus A"
+SED modeling code CISNE, in IDL.
